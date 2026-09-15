@@ -1,0 +1,17 @@
+git add ABit.java .cph/.ABit.java_e9c76aaae47dadafc845a0dd0539441b.prob
+git commit -m "feat: solve Bit"
+
+git add ANextRound.java .cph/.ANextRound.java_286b667368176a069209135361f7811a.prob
+git commit -m "feat: solve Next Round"
+
+git add AWatermelon.java .cph/.AWatermelon.java_b8036c624fa2574c496ba9c1327749eb.prob
+git commit -m "feat: solve Watermelon"
+
+git add AWayTooLongWords.java .cph/.AWayTooLongWords.java_a577b0eb28fdea1da56b19adf4c731d1.prob
+git commit -m "feat: solve Way Too Long Words"
+
+git add BEraseFirstOrSecondLetter.java .cph/.BEraseFirstOrSecondLetter.java_7558890e49689a2632b7bd20cfc731af.prob
+git commit -m "feat: solve Erase First or Second Letter"
+
+git add CQuests.java .cph/.CQuests.java_d08ecde970e85715ca53486dc951944a.prob
+git commit -m "feat: solve Quests"{"name":"B. Erase First or Second Letter","group":"Codeforces - Codeforces Round 917 (Div. 2)","url":"https://codeforces.com/problemset/problem/1917/B","interactive":false,"memoryLimit":256,"timeLimit":1000,"tests":[{"id":1789443969417,"input":"5\n5\naaaaa\n1\nz\n5\nababa\n14\nbcdaaaabcdaaaa\n20\nabcdefghijklmnopqrst\n","output":"5\n1\n9\n50\n210\n"}],"testType":"single","input":{"type":"stdin"},"output":{"type":"stdout"},"languages":{"java":{"mainClass":"Main","taskClass":"BEraseFirstOrSecondLetter"}},"batch":{"id":"7dfa99b3-4be3-4a88-97f2-1492486426be","size":1},"srcPath":"c:\\Desktop\\Project\\CodeForces\\BEraseFirstOrSecondLetter.java"}
